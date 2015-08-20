@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     // 开发2.0版本
+    //修改1.0bug
 }
 
 - (void)didReceiveMemoryWarning {
